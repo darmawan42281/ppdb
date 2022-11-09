@@ -43,7 +43,7 @@
 
             <div class="card card-primary">
               <div class="card-header">
-                <h4>Silahkan Login rev</h4>
+                <h4>LOGIN ADMIN</h4>
               </div>
 
               <div class="card-body">
