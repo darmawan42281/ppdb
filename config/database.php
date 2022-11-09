@@ -2,7 +2,7 @@
 // deklarasi parameter koneksi database
 $server   = "localhost";
 $username = "n1109945_awan";
-$password = "darmawan 112";
+$password = "darmawan 1123";
 $database = "n1109945_ppdb";
 
 // koneksi database
